@@ -47,4 +47,4 @@ Serverifier.setRoute("/api/custom", { custom: "data" });
 <h1>License</h1>
 <br/>
 <br/>
-<h3>This project is licensed under the MIT License - see the <a href="#">LICENSE</a> file for details.</h3>
+<h3>This project is licensed under the MIT License.</h3>

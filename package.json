@@ -17,7 +17,7 @@
   ],
   "author": "Ibrahim Khan",
   "license": "MIT",
-  "dependencies": {
+  "peerDependencies": {
     "express": "^4.18.2"
   },
   "devDependencies": {
